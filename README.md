@@ -17,4 +17,4 @@
 ## 文件內容
 - FHIR_mapping.xlsx：病歷欄位對應表
 - system_flow.pdf：資料轉換流程圖
-- project_presentation.pdf：期末簡報（含技術說明）
+- 專題end.pdf：期末簡報（含技術說明）
