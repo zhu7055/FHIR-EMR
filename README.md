@@ -15,6 +15,9 @@
 - 增進跨院診斷資訊共享，並針對病患藥物過敏史提供風險提示設計
 
 ## 文件內容
-- FHIR_mapping.xlsx：病歷欄位對應表
+-病歷欄位對應表
+- https://hackmd.io/@Zhu01/B1AipGD12/edit
+- https://hackmd.io/@Zhu01/rJlqzXP13
+- https://hackmd.io/@Zhu01/BkaBPQvk3
 - system_flow.pdf：資料轉換流程圖
 - 專題end.pdf：期末簡報（含技術說明）
